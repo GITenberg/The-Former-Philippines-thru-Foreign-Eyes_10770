@@ -1,0 +1,66 @@
+_repo: The-Former-Philippines-thru-Foreign-Eyes_10770
+_version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 10770/10770-h/images/front-cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  authors:
+  - agent_name: Wilkes, Charles
+    birthdate: 1798
+    deathdate: 1877
+    gutenberg_agent_id: '3674'
+    url: http://www.gutenberg.org/2009/agents/3674
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Wilkes
+  - agent_name: Virchow, Rudolf
+    aliases:
+    - Virchow, Rudolph
+    - Virchow, Rudolf Ludwig Karl
+    birthdate: 1821
+    deathdate: 1902
+    gutenberg_agent_id: '4552'
+    url: http://www.gutenberg.org/2009/agents/4552
+  - agent_name: Comyn, Tomás de
+    aliases:
+    - Comyn, Tomas de
+    - Comin, Tomas de
+    - Comín, Tomás de
+    - De Comyn, Tomás
+    gutenberg_agent_id: '4551'
+    url: http://www.gutenberg.org/2009/agents/4551
+  - agent_name: Jagor, Fedor
+    birthdate: 1816
+    deathdate: 1900
+    gutenberg_agent_id: '4550'
+    url: http://www.gutenberg.org/2009/agents/4550
+  editor:
+    agent_name: Craig, Austin
+    birthdate: 1872
+    gutenberg_agent_id: '2229'
+    url: http://www.gutenberg.org/2009/agents/2229
+    wikipedia: http://en.wikipedia.org/wiki/Austin_Craig
+description: ''
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10770'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'Philippines'
+- GITenberg
+tableOfContents: Feodor Jagor's Travels in the Philippines (the out-of-print 1875
+  English translation corrected from the original German text) -- The state of the
+  Philippines in 1810, by Tomas de Comyn (William Walton's 1821 translation modernized)
+  -- Manila and Sulu in 1842, by Com. Chas. Wilkes (Narrative of U.S. exploring expedition
+  1838-42, v. 5) -- Manila in 1819, by Lieut. John White (from the "History of a voyage
+  to the China Sea") -- The peopling of the Philippines, by Doctor Rudolf Virchow
+  (O. T. Mason's translation; Smithsonian institution 1899 report) -- People and prospects
+  of the Philippines, by an English merchant, 1778, and a consul, 1878 (from Blackwood's
+  and the Cornhill magazine) -- Filipino merchants of the early 1890s, by F. Karuth.
+title: The Former Philippines thru Foreign Eyes
+url: http://www.gutenberg.org/ebooks/10770
